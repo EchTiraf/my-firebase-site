@@ -15,14 +15,14 @@
   <script>
     // Firebase configuration
     const firebaseConfig = {
-      apiKey: "AIzaSyA3nK6zZSc0U5bbcBIwlEXJmUhVyZ-VPSo",
-      authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-      projectId: "YOUR_PROJECT_ID",
-      storageBucket: "YOUR_PROJECT_ID.appspot.com",
-      messagingSenderId: "YOUR_SENDER_ID",
-      appId: "1:105419890575:web:f84d810576f3f6c24635fa"
-    };
-
+  apiKey: "AIzaSyA3nK6zZSc0U5bbcBIwlEXJmUhVyZ-VPSo",
+  authDomain: "gidna-mat.firebaseapp.com",
+  projectId: "gidna-mat",
+  storageBucket: "gidna-mat.firebasestorage.app",
+  messagingSenderId: "105419890575",
+  appId: "1:105419890575:web:f84d810576f3f6c24635fa",
+  measurementId: "G-R329STG99R"
+};
     // Initialize Firebase
     const app = firebase.initializeApp(firebaseConfig);
     const auth = firebase.auth();
