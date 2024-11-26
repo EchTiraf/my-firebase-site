@@ -14,13 +14,6 @@
     <button type="submit">Login</button>
   </form>
   
-  <h2>Register</h2>
-  <form id="registerForm">
-    <input type="email" id="regEmail" placeholder="Enter email" required />
-    <input type="password" id="regPassword" placeholder="Enter password" required />
-    <button type="submit">Register</button>
-  </form>
-
   <script>
     // Your Firebase configuration
     const firebaseConfig = {
