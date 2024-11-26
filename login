@@ -15,12 +15,12 @@
   <script>
     // Firebase configuration
     const firebaseConfig = {
-      apiKey: "YOUR_API_KEY",
+      apiKey: "AIzaSyA3nK6zZSc0U5bbcBIwlEXJmUhVyZ-VPSo",
       authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
       projectId: "YOUR_PROJECT_ID",
       storageBucket: "YOUR_PROJECT_ID.appspot.com",
       messagingSenderId: "YOUR_SENDER_ID",
-      appId: "YOUR_APP_ID"
+      appId: "1:105419890575:web:f84d810576f3f6c24635fa"
     };
 
     // Initialize Firebase
